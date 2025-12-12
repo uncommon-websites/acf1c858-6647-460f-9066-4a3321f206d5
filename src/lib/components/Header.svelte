@@ -7,23 +7,26 @@
     <!-- Logo -->
     <a href="/" class="flex items-center gap-2 text-2xl font-bold tracking-tight text-black">
       <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-6 h-6">
-        <path d="M12 2L14.5 9.5H22L16 14L18.5 21.5L12 17L5.5 21.5L8 14L2 9.5H9.5L12 2Z" fill="black"/>
+        <rect x="3" y="3" width="8" height="8" fill="black"/>
+        <rect x="13" y="3" width="8" height="8" fill="black"/>
+        <rect x="3" y="13" width="8" height="8" fill="black"/>
+        <rect x="13" y="13" width="8" height="8" fill="black"/>
       </svg>
-      lightspark
+      ADIA
     </a>
 
     <!-- Nav Links -->
     <nav class="hidden md:flex items-center gap-8">
-      <a href="#" class="text-sm font-medium text-gray-600 hover:text-black transition-colors">Solutions</a>
-      <a href="#" class="text-sm font-medium text-gray-600 hover:text-black transition-colors">Industries</a>
-      <a href="#" class="text-sm font-medium text-gray-600 hover:text-black transition-colors">Company</a>
+      <a href="#" class="text-sm font-medium text-gray-600 hover:text-black transition-colors">Investment Approach</a>
+      <a href="#" class="text-sm font-medium text-gray-600 hover:text-black transition-colors">Asset Classes</a>
+      <a href="#" class="text-sm font-medium text-gray-600 hover:text-black transition-colors">About Us</a>
     </nav>
 
     <!-- Right Actions -->
     <div class="flex items-center gap-6">
-      <a href="#" class="hidden md:block text-sm font-medium text-gray-600 hover:text-black transition-colors">View Docs</a>
-      <a href="#" class="hidden md:block text-sm font-medium text-gray-600 hover:text-black transition-colors">Log in</a>
-      <a href="#" class="text-sm font-medium text-black hover:text-gray-600 transition-colors">Contact</a>
+      <a href="#" class="hidden md:block text-sm font-medium text-gray-600 hover:text-black transition-colors">News & Insights</a>
+      <a href="#" class="hidden md:block text-sm font-medium text-gray-600 hover:text-black transition-colors">UAE Nationals</a>
+      <a href="#" class="text-sm font-medium text-black hover:text-gray-600 transition-colors">Careers</a>
     </div>
   </div>
 </header>

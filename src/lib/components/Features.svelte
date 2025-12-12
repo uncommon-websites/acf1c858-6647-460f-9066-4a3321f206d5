@@ -2,26 +2,26 @@
   <div class="grid grid-cols-1 lg:grid-cols-2 gap-16">
     <div>
       <h2 class="text-4xl md:text-5xl font-medium tracking-tight leading-[1.1] max-w-md">
-        Making global money movement instant, open, and simple.
+        Built on principles that have guided us since 1976.
       </h2>
     </div>
     <div class="space-y-12">
       <div>
-        <h3 class="text-xl font-medium mb-3">Instant.</h3>
+        <h3 class="text-xl font-medium mb-3">Long-term focus.</h3>
         <p class="text-gray-600 leading-relaxed max-w-md">
-          Move money in real time—across borders, networks, and platforms—with infrastructure built for always-on, global payments.
+          Four decades of positive, inflation-adjusted returns. We look beyond market cycles and short-term fluctuations, making decisions that sustain prosperity for generations.
         </p>
       </div>
       <div>
-        <h3 class="text-xl font-medium mb-3">Open.</h3>
+        <h3 class="text-xl font-medium mb-3">Global diversification.</h3>
         <p class="text-gray-600 leading-relaxed max-w-md">
-          Built on the only decentralized and neutral network, Bitcoin, putting you in control. No middlemen. No gatekeepers. Just freedom to move value on your terms.
+          A truly global portfolio spanning all major asset classes and geographies. Our teams travel regularly to markets, maintaining extensive networks and firsthand market intelligence.
         </p>
       </div>
       <div>
-        <h3 class="text-xl font-medium mb-3">Simple.</h3>
+        <h3 class="text-xl font-medium mb-3">Prudent risk management.</h3>
         <p class="text-gray-600 leading-relaxed max-w-md">
-          Easy-to-integrate tools with compliance-ready features baked in—so you can build, scale, and stay focused on what matters.
+          Reputation placed above all else. Short-term gain never outweighs wise long-term judgment. We build relationships of trust based on mutual understanding and respect.
         </p>
       </div>
     </div>

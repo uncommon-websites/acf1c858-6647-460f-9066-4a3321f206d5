@@ -2,29 +2,32 @@
   <!-- CTA Section -->
   <div class="max-w-7xl mx-auto px-6 mb-32 relative z-10">
     <div class="flex flex-col items-center text-center">
-      <!-- Star Logo Animation Placeholder -->
+      <!-- ADIA Logo Symbol -->
       <div class="mb-12 relative w-24 h-24 flex items-center justify-center">
-        <!-- Grid lines decoration -->
-        <div class="absolute inset-0 border border-white/10 rotate-45"></div>
-        <div class="absolute inset-4 border border-white/10 rotate-45"></div>
+        <!-- Grid decoration -->
+        <div class="absolute inset-0 border border-white/10"></div>
+        <div class="absolute inset-4 border border-white/10"></div>
         
-        <!-- Star -->
-        <svg width="64" height="64" viewBox="0 0 24 24" fill="white" class="animate-pulse"><path d="M12 2L14.5 9.5H22L16 14L18.5 21.5L12 17L5.5 21.5L8 14L2 9.5H9.5L12 2Z"/></svg>
+        <!-- Grid Symbol -->
+        <svg width="48" height="48" viewBox="0 0 24 24" fill="white" class="opacity-90">
+          <rect x="2" y="2" width="9" height="9"/>
+          <rect x="13" y="2" width="9" height="9"/>
+          <rect x="2" y="13" width="9" height="9"/>
+          <rect x="13" y="13" width="9" height="9"/>
+        </svg>
       </div>
 
       <h2 class="text-4xl md:text-5xl font-medium tracking-tight mb-12 max-w-2xl">
-        Connect with our sales team to unlock your next market.
+        Join our globally diverse team and shape the future of investment.
       </h2>
 
-      <div class="flex flex-col sm:flex-row items-center gap-4 w-full max-w-md border-b border-white/20 pb-2">
-        <input 
-          type="email" 
-          placeholder="Work email" 
-          class="bg-transparent border-none outline-none text-white placeholder-gray-500 w-full text-lg py-2"
-        />
-        <button class="text-green-400 hover:text-green-300 whitespace-nowrap font-medium flex items-center gap-2 transition-colors">
-          Let's talk <span>→</span>
-        </button>
+      <div class="flex flex-col sm:flex-row items-center gap-4">
+        <a href="#" class="px-8 py-4 bg-white text-black font-medium rounded-lg hover:bg-gray-200 transition-colors">
+          Explore Careers
+        </a>
+        <a href="#" class="px-8 py-4 border border-white/20 text-white font-medium rounded-lg hover:bg-white/10 transition-colors">
+          UAE Nationals Portal
+        </a>
       </div>
     </div>
   </div>
@@ -36,76 +39,66 @@
 
   <!-- Footer Links -->
   <div class="max-w-7xl mx-auto px-6 relative z-10">
-    <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-12 mb-32 text-sm">
+    <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-12 mb-32 text-sm">
       <div class="space-y-4">
-        <h4 class="text-gray-500 font-medium">Solutions</h4>
+        <h4 class="text-gray-500 font-medium">Investment</h4>
         <ul class="space-y-3">
-          <li><a href="#" class="hover:text-gray-300">Digital Banks</a></li>
-          <li><a href="#" class="hover:text-gray-300">Exchanges</a></li>
-          <li><a href="#" class="hover:text-gray-300">Wallets</a></li>
+          <li><a href="#" class="hover:text-gray-300">Public Markets</a></li>
+          <li><a href="#" class="hover:text-gray-300">Private Markets</a></li>
+          <li><a href="#" class="hover:text-gray-300">Real Assets</a></li>
+          <li><a href="#" class="hover:text-gray-300">Innovation & Research</a></li>
         </ul>
       </div>
       <div class="space-y-4">
-        <h4 class="text-gray-500 font-medium">Products</h4>
+        <h4 class="text-gray-500 font-medium">Careers</h4>
         <ul class="space-y-3">
-          <li><a href="#" class="hover:text-gray-300">Connect</a></li>
-          <li><a href="#" class="hover:text-gray-300">Grid</a></li>
+          <li><a href="#" class="hover:text-gray-300">Open Positions</a></li>
+          <li><a href="#" class="hover:text-gray-300">UAE Nationals</a></li>
+          <li><a href="#" class="hover:text-gray-300">Professional Development</a></li>
+          <li><a href="#" class="hover:text-gray-300">Culture & Values</a></li>
+        </ul>
+      </div>
+      <div class="space-y-4">
+        <h4 class="text-gray-500 font-medium">About</h4>
+        <ul class="space-y-3">
+          <li><a href="#" class="hover:text-gray-300">Our History</a></li>
+          <li><a href="#" class="hover:text-gray-300">Leadership</a></li>
+          <li><a href="#" class="hover:text-gray-300">Governance</a></li>
+          <li><a href="#" class="hover:text-gray-300">Sustainability</a></li>
         </ul>
       </div>
       <div class="space-y-4">
         <h4 class="text-gray-500 font-medium">Resources</h4>
         <ul class="space-y-3">
-          <li><a href="#" class="hover:text-gray-300">News</a></li>
-          <li><a href="#" class="hover:text-gray-300">Knowledge</a></li>
-          <li><a href="#" class="hover:text-gray-300">Media</a></li>
-          <li><a href="#" class="hover:text-gray-300">Support</a></li>
-          <li><a href="#" class="hover:text-gray-300">FAQ</a></li>
-          <li><a href="#" class="hover:text-gray-300">Glossary</a></li>
-        </ul>
-      </div>
-      <div class="space-y-4">
-        <h4 class="text-gray-500 font-medium">Developers</h4>
-        <ul class="space-y-3">
-          <li><a href="#" class="hover:text-gray-300">Documentation</a></li>
-          <li><a href="#" class="hover:text-gray-300">UMA</a></li>
-          <li><a href="#" class="hover:text-gray-300">Spark</a></li>
-        </ul>
-      </div>
-      <div class="space-y-4">
-        <h4 class="text-gray-500 font-medium">Company</h4>
-        <ul class="space-y-3">
-          <li><a href="#" class="hover:text-gray-300">About</a></li>
-          <li><a href="#" class="hover:text-gray-300">Team</a></li>
-          <li><a href="#" class="hover:text-gray-300">Careers</a></li>
-          <li><a href="#" class="hover:text-gray-300">Contact Sales</a></li>
-          <li><a href="#" class="hover:text-gray-300">Brand</a></li>
+          <li><a href="#" class="hover:text-gray-300">News & Insights</a></li>
+          <li><a href="#" class="hover:text-gray-300">Events</a></li>
+          <li><a href="#" class="hover:text-gray-300">Publications</a></li>
+          <li><a href="#" class="hover:text-gray-300">Contact</a></li>
         </ul>
       </div>
       <div class="space-y-4">
         <h4 class="text-gray-500 font-medium">Legal</h4>
         <ul class="space-y-3">
-          <li><a href="#" class="hover:text-gray-300">Terms & Conditions</a></li>
           <li><a href="#" class="hover:text-gray-300">Privacy Policy</a></li>
-          <li><a href="#" class="hover:text-gray-300">Licenses</a></li>
-          <li><a href="#" class="hover:text-gray-300">Cookie Preferences</a></li>
+          <li><a href="#" class="hover:text-gray-300">Terms of Use</a></li>
+          <li><a href="#" class="hover:text-gray-300">Disclaimer</a></li>
         </ul>
       </div>
     </div>
 
     <!-- Big Logo -->
     <div class="mb-12">
-      <h1 class="text-[12vw] leading-none font-bold tracking-tighter text-white opacity-90 select-none">lightspark</h1>
+      <h1 class="text-[12vw] leading-none font-bold tracking-tighter text-white opacity-90 select-none">ADIA</h1>
     </div>
 
     <!-- Bottom Bar -->
     <div class="flex flex-col md:flex-row justify-between items-center gap-6 text-xs text-gray-500 border-t border-white/10 pt-8">
       <div class="flex gap-6">
-        <a href="#" class="hover:text-white">X (aka Twitter)</a>
         <a href="#" class="hover:text-white">LinkedIn</a>
-        <a href="#" class="hover:text-white">YouTube</a>
+        <a href="#" class="hover:text-white">Twitter</a>
       </div>
       <div>
-        © 2022 - 2025 Lightspark Group, Inc.
+        © 1976 - 2025 Abu Dhabi Investment Authority
       </div>
     </div>
   </div>
